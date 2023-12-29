@@ -1,0 +1,21 @@
+@font-face{
+    font-family: Vazir;
+    src: url(Vazir.woff2) format(woff2);
+}
+body{
+    font-family: Vazir;
+    background-color: rgb(244, 207, 152);
+}
+#prg{
+    font-size: 30px;
+    font-style: normal;
+    color: blueviolet;
+    text-align: justify;
+}
+.header{
+    color: rgb(21, 0, 255)
+}
+#person{
+    font-style: italic;
+    color: red;
+}
